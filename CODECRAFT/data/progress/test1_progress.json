@@ -1,0 +1,108 @@
+{
+  "completed_tasks": [
+    "lesson1-q3",
+    "lesson1-q5",
+    "lesson1-q1",
+    "final_test_1",
+    "lesson1-q10",
+    "lesson1-q4",
+    "lesson1-q6",
+    "lesson1-q2",
+    "lesson1-q0",
+    "lesson1-q7",
+    "lesson1-q9",
+    "lesson1-q15",
+    "lesson1-q8",
+    "lesson1-q14",
+    "lesson1-q12",
+    "lesson1-q11",
+    "lesson1-q13"
+  ],
+  "module_scores": {
+    "1": 16
+  },
+  "task_solutions": {
+    "lesson1-q0": {
+      "answer": "wiek=10",
+      "timestamp": "2025-07-10T13:50:13.997473"
+    },
+    "lesson1-q1": {
+      "answer": "imie='Kuba'",
+      "timestamp": "2025-07-10T14:17:12.006477"
+    },
+    "lesson1-q2": {
+      "answer": "a=3\nb=7",
+      "timestamp": "2025-07-10T14:17:16.088540"
+    },
+    "lesson1-q3": {
+      "answer": "x=5\nx=x+2",
+      "timestamp": "2025-07-10T14:17:20.542532"
+    },
+    "lesson1-q4": {
+      "answer": "C: 5",
+      "timestamp": "2025-07-10T14:17:23.628669"
+    },
+    "lesson1-q5": {
+      "answer": "B: 8",
+      "timestamp": "2025-07-10T14:17:25.516644"
+    },
+    "lesson1-q6": {
+      "answer": "A: hej",
+      "timestamp": "2025-07-10T14:17:27.438439"
+    },
+    "lesson1-q7": {
+      "answer": "D: 3",
+      "timestamp": "2025-07-10T14:17:29.554496"
+    },
+    "lesson1-q8": {
+      "answer": "x = 5\ny = 2\nprint(x + y)",
+      "timestamp": "2025-07-10T14:17:31.932481"
+    },
+    "lesson1-q9": {
+      "answer": "a = 4\nb = 6\nprint(a * b)",
+      "timestamp": "2025-07-10T14:17:34.114462"
+    },
+    "lesson1-q10": {
+      "answer": "x = 10\nprint(x)",
+      "timestamp": "2025-07-10T14:17:35.986636"
+    },
+    "lesson1-q11": {
+      "answer": "a = 1\nb = 2\nsuma = a + b\nprint(suma)",
+      "timestamp": "2025-07-10T14:17:37.852562"
+    },
+    "lesson1-q12": {
+      "answer": "5",
+      "timestamp": "2025-07-10T14:17:39.370610"
+    },
+    "lesson1-q13": {
+      "answer": "5",
+      "timestamp": "2025-07-10T14:17:40.668608"
+    },
+    "lesson1-q14": {
+      "answer": "7",
+      "timestamp": "2025-07-10T14:17:42.212774"
+    },
+    "lesson1-q15": {
+      "answer": "Ala",
+      "timestamp": "2025-07-10T14:17:44.498666"
+    }
+  },
+  "test_history": [
+    {
+      "module": 1,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 1.892,
+      "completion_date": "2025-07-10T14:02:39.387226"
+    },
+    {
+      "module": 1,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 23.801,
+      "completion_date": "2025-07-10T14:16:49.681458"
+    }
+  ],
+  "experience": 340,
+  "timestamp": "2025-07-10T14:18:05.232183"
+}
