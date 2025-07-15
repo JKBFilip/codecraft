@@ -1,0 +1,25 @@
+{
+  "completed_tasks": [
+    "lesson4-q4"
+  ],
+  "module_scores": {
+    "4": 1
+  },
+  "task_solutions": {
+    "lesson4-q4": {
+      "answer": "C: 5",
+      "timestamp": "2025-07-10T13:56:23.368435"
+    }
+  },
+  "test_history": [
+    {
+      "module": 4,
+      "score": 20.0,
+      "perfect": false,
+      "time_taken": 1.966,
+      "completion_date": "2025-07-10T14:08:12.612533"
+    }
+  ],
+  "experience": 45,
+  "timestamp": "2025-07-10T14:08:12.627501"
+}

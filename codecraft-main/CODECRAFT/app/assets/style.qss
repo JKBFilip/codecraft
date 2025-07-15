@@ -1,0 +1,61 @@
+QWidget {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 16px;
+}
+QPushButton {
+    background-color: #2a2a40;
+    border: 2px solid #3e3e5e;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #ffffff;
+}
+QPushButton:hover {
+    background-color: #3a3a5c;
+}
+
+QPushButton:pressed {
+    background-color: #4a4a6c;
+}
+
+QLabel {
+    font-size: 18px;
+    padding: 4px;
+}
+QPushButton#certificateButton {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+}
+QPushButton#certificateButton:hover {
+    background-color: #45a049;
+}
+QTextEdit#summaryText {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+QLabel#certificateLabel {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+QPushButton#downloadCertButton {
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+QPushButton#downloadCertButton:hover {
+    background-color: #218838;
+}
+
