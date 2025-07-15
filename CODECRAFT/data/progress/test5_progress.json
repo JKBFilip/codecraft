@@ -1,0 +1,25 @@
+{
+  "completed_tasks": [
+    "lesson4-q5"
+  ],
+  "module_scores": {
+    "4": 1
+  },
+  "task_solutions": {
+    "lesson4-q5": {
+      "answer": "B: wci\u0119cie pod def",
+      "timestamp": "2025-07-10T14:08:38.649413"
+    }
+  },
+  "test_history": [
+    {
+      "module": 5,
+      "score": 20.0,
+      "perfect": false,
+      "time_taken": 1.648,
+      "completion_date": "2025-07-10T14:08:51.864465"
+    }
+  ],
+  "experience": 40,
+  "timestamp": "2025-07-10T14:08:51.876172"
+}
