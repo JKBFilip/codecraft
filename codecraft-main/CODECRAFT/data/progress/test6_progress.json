@@ -1,0 +1,22 @@
+{
+  "completed_tasks": [
+    "lesson1-q1",
+    "lesson1-q0"
+  ],
+  "module_scores": {
+    "1": 2
+  },
+  "task_solutions": {
+    "lesson1-q0": {
+      "answer": "wiek=10",
+      "timestamp": "2025-07-10T14:12:55.262974"
+    },
+    "lesson1-q1": {
+      "answer": "imie='Kuba'",
+      "timestamp": "2025-07-10T14:13:03.137131"
+    }
+  },
+  "test_history": [],
+  "experience": 5,
+  "timestamp": "2025-07-10T14:13:03.137137"
+}
