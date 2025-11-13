@@ -1,0 +1,28 @@
+{
+  "completed_tasks": [
+    "lesson5-q2",
+    "lesson1-q0",
+    "lesson1-q1"
+  ],
+  "module_scores": {
+    "1": 2,
+    "5": 1
+  },
+  "task_solutions": {
+    "lesson1-q0": {
+      "answer": "wiek=10",
+      "timestamp": "2025-07-10T13:40:44.812359"
+    },
+    "lesson1-q1": {
+      "answer": "imie='Olek'",
+      "timestamp": "2025-07-15T13:23:35.408141"
+    },
+    "lesson5-q2": {
+      "answer": "dane=[]",
+      "timestamp": "2025-07-15T13:26:38.911823"
+    }
+  },
+  "test_history": [],
+  "experience": 50,
+  "timestamp": "2025-07-15T14:35:21.475223"
+}
