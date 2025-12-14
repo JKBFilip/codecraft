@@ -1,0 +1,31 @@
+{
+  "completed_tasks": [
+    "lesson2-q4",
+    "lesson1-q0"
+  ],
+  "module_scores": {
+    "2": 1,
+    "1": 1
+  },
+  "task_solutions": {
+    "lesson2-q4": {
+      "answer": "B: B",
+      "timestamp": "2025-07-10T13:38:01.047057"
+    },
+    "lesson1-q0": {
+      "answer": "wiek=10",
+      "timestamp": "2025-07-10T13:38:29.880903"
+    }
+  },
+  "test_history": [
+    {
+      "module": 4,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 1.558,
+      "completion_date": "2025-07-10T14:04:51.600813"
+    }
+  ],
+  "experience": 310,
+  "timestamp": "2025-07-10T14:14:21.178239"
+}

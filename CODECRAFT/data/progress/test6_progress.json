@@ -1,0 +1,139 @@
+{
+  "completed_tasks": [
+    "lesson1-q1",
+    "final_test_2",
+    "lesson1-q0",
+    "final_test_4",
+    "final_test_3",
+    "final_test_5",
+    "final_test_1"
+  ],
+  "module_scores": {
+    "1": 16,
+    "2": 16,
+    "3": 16,
+    "4": 16,
+    "5": 16
+  },
+  "task_solutions": {
+    "lesson1-q0": {
+      "answer": "wiek=10",
+      "timestamp": "2025-07-10T14:12:55.262974"
+    },
+    "lesson1-q1": {
+      "answer": "imie='Kuba'",
+      "timestamp": "2025-07-10T14:13:03.137131"
+    }
+  },
+  "test_history": [
+    {
+      "module": 1,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-10-22T12:13:25.034369",
+      "is_final_exam": false
+    },
+    {
+      "module": 2,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-10-22T12:13:25.034380",
+      "is_final_exam": false
+    },
+    {
+      "module": 3,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-10-22T12:13:25.034384",
+      "is_final_exam": false
+    },
+    {
+      "module": 4,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-10-22T12:13:25.034386",
+      "is_final_exam": false
+    },
+    {
+      "module": 5,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-10-22T12:13:25.034388",
+      "is_final_exam": false
+    },
+    {
+      "module": 0,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 3.737,
+      "completion_date": "2025-10-22T12:13:30.443716",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 4.208,
+      "completion_date": "2025-10-22T12:18:11.707209",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 20.0,
+      "perfect": false,
+      "time_taken": 3.197,
+      "completion_date": "2025-10-22T12:23:27.412498",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 20.0,
+      "perfect": false,
+      "time_taken": 4.15,
+      "completion_date": "2025-10-22T12:23:28.364689",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 35.0,
+      "perfect": false,
+      "time_taken": 3.292,
+      "completion_date": "2025-10-22T12:41:10.837031",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 3.622,
+      "completion_date": "2025-10-22T12:44:07.432523",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 10.0,
+      "perfect": false,
+      "time_taken": 3.315,
+      "completion_date": "2025-10-22T13:24:55.870483",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 15.0,
+      "perfect": false,
+      "time_taken": 3.255,
+      "completion_date": "2025-10-22T13:26:49.388511",
+      "is_final_exam": true
+    }
+  ],
+  "experience": 105,
+  "timestamp": "2025-11-21T15:40:59.466074",
+  "redeemed_codes": [
+    "XP_BOOST_100"
+  ]
+}

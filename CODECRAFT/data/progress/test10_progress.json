@@ -1,0 +1,102 @@
+{
+  "completed_tasks": [
+    "final_test_5",
+    "final_test_4",
+    "final_test_1",
+    "final_test_2",
+    "final_test_3"
+  ],
+  "module_scores": {
+    "1": 16,
+    "2": 16,
+    "3": 16,
+    "4": 16,
+    "5": 16
+  },
+  "task_solutions": {},
+  "test_history": [
+    {
+      "module": 1,
+      "score": 0.0,
+      "perfect": false,
+      "time_taken": 17.849,
+      "completion_date": "2025-12-09T14:57:30.036952",
+      "is_final_exam": false
+    },
+    {
+      "module": 1,
+      "score": 0.0,
+      "perfect": false,
+      "time_taken": 18.283,
+      "completion_date": "2025-12-09T14:57:30.471379",
+      "is_final_exam": false
+    },
+    {
+      "module": 1,
+      "score": 20.0,
+      "perfect": false,
+      "time_taken": 5.12,
+      "completion_date": "2025-12-09T15:00:03.761381",
+      "is_final_exam": false
+    },
+    {
+      "module": 1,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-12-11T18:09:26.941256",
+      "is_final_exam": false
+    },
+    {
+      "module": 2,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-12-11T18:09:26.941303",
+      "is_final_exam": false
+    },
+    {
+      "module": 3,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-12-11T18:09:26.941310",
+      "is_final_exam": false
+    },
+    {
+      "module": 4,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-12-11T18:09:26.941314",
+      "is_final_exam": false
+    },
+    {
+      "module": 5,
+      "score": 100.0,
+      "perfect": true,
+      "time_taken": 1.0,
+      "completion_date": "2025-12-11T18:09:26.941317",
+      "is_final_exam": false
+    },
+    {
+      "module": 0,
+      "score": 5.0,
+      "perfect": false,
+      "time_taken": 3.706,
+      "completion_date": "2025-12-12T12:09:28.574491",
+      "is_final_exam": true
+    },
+    {
+      "module": 0,
+      "score": 90.0,
+      "perfect": false,
+      "time_taken": 101.766,
+      "completion_date": "2025-12-12T12:11:23.832787",
+      "is_final_exam": true
+    }
+  ],
+  "experience": 485,
+  "timestamp": "2025-12-12T12:22:40.847135",
+  "redeemed_codes": []
+}
