@@ -1,0 +1,320 @@
+/* =================================================================== */
+/* ===                GŁÓWNE STYLE APLIKACJI (DARK)                === */
+/* =================================================================== */
+
+QWidget {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 16px;
+}
+
+QPushButton {
+    background-color: #2a2a40;
+    border: 2px solid #3e3e5e;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #ffffff;
+}
+
+QPushButton:hover {
+    background-color: #3a3a5c;
+}
+
+QPushButton:pressed {
+    background-color: #4a4a6c;
+}
+
+QLabel {
+    padding: 4px;
+    background-color: transparent;
+}
+
+/* Styl dla etykiety pytania (naprawia niewidoczny tekst) */
+QLabel#questionLabel {
+    color: #f8f8f2;
+    font-weight: bold;
+}
+
+/* Pola tekstowe */
+QLineEdit {
+    background-color: #1e1e2f;
+    border: 1px solid #3e3e5e;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+    color: #f8f8f2;
+}
+
+QLineEdit:focus {
+    border: 1px solid #bd93f9;
+}
+
+QTextEdit {
+    background-color: #282a36;
+    border: 1px solid #3e3e5e;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+/* =================================================================== */
+/* ===                    PRZYCISKI SPECJALNE                      === */
+/* =================================================================== */
+
+QPushButton#taskButton {
+    background-color: #50fa7b;
+    color: #1e1e2f;
+    font-weight: bold;
+}
+
+QPushButton#taskButton:hover {
+    background-color: #62ff91;
+}
+
+QPushButton#finalTestButton, QPushButton#finalExamButton {
+    background-color: #ffb86c;
+    color: #1e1e2f;
+    font-weight: bold;
+}
+
+QPushButton#finalTestButton:hover, QPushButton#finalExamButton:hover {
+    background-color: #ffca8a;
+}
+
+QPushButton#finalExamButton:disabled {
+    background-color: #3e3e5e;
+    color: #6272a4;
+    border: 1px dashed #6272a4;
+}
+
+/* Główny przycisk akcji (np. Zaloguj, Zarejestruj, Zatwierdź) */
+QPushButton#primaryButton {
+    background-color: #bd93f9;
+    color: #1e1e2f;
+    font-weight: bold;
+    border: none;
+}
+
+QPushButton#primaryButton:hover {
+    background-color: #caa9fa;
+}
+
+/* Dodatkowy przycisk (np. Powrót) */
+QPushButton#secondaryButton {
+    background-color: transparent;
+    border: 1px solid #6272a4;
+    color: #6272a4;
+    font-weight: normal;
+}
+
+QPushButton#secondaryButton:hover {
+    background-color: #6272a4;
+    color: #f8f8f2;
+}
+
+QPushButton#achievementsButton {
+    background-color: #6272a4;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+QPushButton#achievementsButton:hover {
+    background-color: #7082b6;
+}
+
+/* =================================================================== */
+/* ===                  STYLE DLA EKRANU MENU                    === */
+/* =================================================================== */
+
+#welcomeHeader {
+    font-size: 22px;
+    font-weight: bold;
+    color: #f8f8f2;
+}
+
+#xpLabel {
+    font-size: 14px;
+    color: #bd93f9;
+}
+
+#separator {
+    background-color: #3e3e5e;
+    border: none;
+    height: 1px;
+}
+
+#modulesHeader {
+    font-size: 16px;
+    color: #bd93f9;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Karta Modułu */
+QPushButton#moduleCard {
+    background-color: #2a2a40;
+    border: 1px solid #3e3e5e;
+    border-radius: 12px;
+    text-align: left;
+    padding: 15px;
+    min-height: 150px;
+}
+
+QPushButton#moduleCard:hover {
+    background-color: #3a3a5c;
+    border: 1px solid #bd93f9;
+}
+
+QPushButton#moduleCard[completed="true"] {
+    background-color: #283636;
+    border: 1px solid #50fa7b;
+}
+
+#moduleCard QLabel#moduleIcon {
+    font-size: 28px;
+}
+
+#moduleCard QLabel#moduleTitle {
+    font-size: 16px;
+    font-weight: bold;
+    color: #f8f8f2;
+}
+
+#moduleCard QLabel#moduleProgressLabel {
+    font-size: 12px;
+    color: #ccc;
+}
+
+QLabel#testStatusIcon {
+    font-size: 20px;
+    font-weight: bold;
+    color: #50fa7b;
+    background-color: transparent;
+}
+
+/* Pasek Postępu */
+QProgressBar#moduleProgressBar {
+    background-color: #1e1e2f;
+    border: 1px solid #3e3e5e;
+    border-radius: 5px;
+    height: 10px;
+    text-align: center;
+}
+
+QProgressBar#moduleProgressBar::chunk {
+    background-color: #50fa7b;
+    border-radius: 4px;
+}
+
+/* =================================================================== */
+/* ===             STYLE DLA EKRANÓW SPECJALNYCH               === */
+/* =================================================================== */
+
+QLabel#lessonTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #8be9fd;
+    margin-bottom: 10px;
+}
+
+/* Podsumowanie testu */
+QTextEdit#summaryText {
+    background-color: #2a2a40;
+    border: 1px solid #3e3e5e;
+    border-radius: 8px;
+    padding: 15px;
+    color: #f8f8f2;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Certyfikat */
+QPushButton#certificateButton {
+    background-color: #4CAF50;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+QPushButton#certificateButton:hover {
+    background-color: #45a049;
+}
+
+QPushButton#downloadCertButton {
+    background-color: #28a745;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+QPushButton#downloadCertButton:hover {
+    background-color: #218838;
+}
+
+QLabel#certificateLabel {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Formularze (Logowanie, Rejestracja, Reset) */
+#formFrame {
+    background-color: #2a2a40;
+    border-radius: 12px;
+    border: 1px solid #3e3e5e;
+}
+
+#resetTitle, #loginTitle, #registerTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f8f8f2;
+    margin-bottom: 5px;
+}
+
+#subtitleLabel {
+    font-size: 14px;
+    color: #ccc;
+}
+
+/* =================================================================== */
+/* ===               STYLE DLA MINI-GRY (DARK MODE)               === */
+/* =================================================================== */
+
+#variableBox {
+    background-color: #2a2a40; /* Ciemne tło pudełka */
+    border: 4px dashed #666;   /* Przerywana ramka */
+    border-radius: 20px;
+}
+
+/* Kiedy pudełko dostanie nazwę */
+#variableBox[is_named="true"] {
+    border: 4px solid #4CAF50; /* Ciągła zielona ramka */
+    background-color: #32324e; /* Nieco jaśniejsze tło */
+}
+
+#boxContentLabel {
+    color: #aaaaaa;
+}
+
+#gameInstruction {
+    font-size: 16px;
+    font-weight: bold;
+    color: #e0e0e0; /* Jasny tekst instrukcji */
+    margin-bottom: 20px;
+}
+
+#gameHeader {
+    font-weight: bold;
+    color: #e0e0e0;
+}
+
+#gameResult {
+    color: #50fa7b; /* Zielony wynik */
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
