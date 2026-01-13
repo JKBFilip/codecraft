@@ -1,0 +1,71 @@
+{
+  "completed_tasks": [
+    "lesson2-q0",
+    "lesson1-q1",
+    "lesson4-q1",
+    "lesson4-q0",
+    "lesson1-q2",
+    "lesson2-q1",
+    "lesson1-q12",
+    "lesson5-q0",
+    "lesson1-q3",
+    "lesson1-q0",
+    "lesson5-q1"
+  ],
+  "module_scores": {
+    "1": 5,
+    "5": 2,
+    "2": 2,
+    "4": 2
+  },
+  "task_solutions": {
+    "lesson1-q0": {
+      "answer": "costam=10",
+      "timestamp": "2026-01-06T13:44:41.299945"
+    },
+    "lesson1-q1": {
+      "answer": "nazwisko= 'olek'\n",
+      "timestamp": "2026-01-06T13:45:02.379619"
+    },
+    "lesson1-q2": {
+      "answer": "b=7\na=3",
+      "timestamp": "2026-01-06T13:45:08.346874"
+    },
+    "lesson1-q3": {
+      "answer": "xd =5 \nxd= xd+2",
+      "timestamp": "2026-01-06T13:46:14.104019"
+    },
+    "lesson1-q12": {
+      "answer": "5",
+      "timestamp": "2026-01-06T13:46:30.937848"
+    },
+    "lesson5-q0": {
+      "answer": "lnumerki = [1,3]",
+      "timestamp": "2026-01-06T13:46:51.639854"
+    },
+    "lesson5-q1": {
+      "answer": "liczby = [1,2,3]\nliczby.append(2)",
+      "timestamp": "2026-01-06T13:48:40.963815"
+    },
+    "lesson2-q0": {
+      "answer": "y =7\nif y> 4:\n\tprint(\"Du\u017ce\")",
+      "timestamp": "2026-01-06T13:53:56.286643"
+    },
+    "lesson2-q1": {
+      "answer": "z=3\nif z==3:\n\tprint(\"Dziesi\u0119\u0107\")",
+      "timestamp": "2026-01-06T13:55:03.399810"
+    },
+    "lesson4-q0": {
+      "answer": "def witaj():\n\tprint(\"Cze\u015b\u0107!\")",
+      "timestamp": "2026-01-06T14:02:12.487172"
+    },
+    "lesson4-q1": {
+      "answer": "def suma(x,y):\n\treturn x+z",
+      "timestamp": "2026-01-06T14:02:38.537386"
+    }
+  },
+  "test_history": [],
+  "experience": 5,
+  "timestamp": "2026-01-06T14:05:42.659346",
+  "redeemed_codes": []
+}
